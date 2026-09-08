@@ -88,7 +88,7 @@ A análise completa está no notebook:
 
 **Notebook Jupyter:** [Abrir notebook](src/MariaSabrinaFeitosaDaSilva_rm568714_pbl_fase5.ipynb)
 
-**Vídeo demonstrativo da Entrega 1:** [COLE AQUI O LINK DO YOUTUBE]
+**Vídeo demonstrativo da Entrega 1:** [(https://youtu.be/y9yYa7zq5eM)]
 
 O notebook reúne a análise exploratória da base, a comparação das culturas, as correlações, a clusterização com K-Means, a busca por outliers e a modelagem supervisionada com cinco algoritmos.
 
@@ -118,7 +118,7 @@ A Virgínia do Norte custa US$ 8,27 a menos por mês. Tomando São Paulo como re
 
 Mesmo com a diferença de preço, escolhemos São Paulo para o cenário proposto. Como os sensores e os usuários estão no Brasil, a região brasileira tende a oferecer menor latência. Além disso, o enunciado estabelece uma restrição para armazenamento no exterior, então São Paulo atende diretamente a essa condição.
 
-**Vídeo demonstrativo da Entrega 2:** [COLE AQUI O LINK DO YOUTUBE]
+**Vídeo demonstrativo da Entrega 2:** [(https://youtu.be/3w8HqhKzCds)]
 
 ## 🔧 Como executar o código
 
